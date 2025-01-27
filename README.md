@@ -10,5 +10,5 @@ By the end of this case study , you would be able to answer below questions.
 
 ## About the data
 **Context**   
-This data set is created only for the learning purpose of the customer segmentation concepts , also known as market basket analysis . I will demonstrate this by using unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form.
+This data set is created only for the learning purpose of the customer segmentation concepts , also known as market basket analysis . I will demonstrate this by using unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form.   
 [Data Link on Kaggle ](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
