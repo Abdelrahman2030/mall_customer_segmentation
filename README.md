@@ -32,6 +32,12 @@ This data set is created only for the learning purpose of the customer segmentat
 **Cluster(3): Has low score)**
 - Clusters has a good relation with `age` as **(Clsuer(1): Has an age range from 25 to 50, but other clusters vary in age)**
 
+## Visualizations
+### Pairplots
+The following graph visualizes all the relations with in the data:
+
+![Actual vs Predicted Prices](https://github.com/Abdelrahman2030/house_sales_time_series/blob/main/Graphs/actual_vs_predicted.png)
+
 ## Characteristics of group 1 that has the highest spending score
 - **`Age:`**   
     - Ranges from 27 to 40
@@ -44,3 +50,5 @@ This data set is created only for the learning purpose of the customer segmentat
     - Mean is 86
     - Median is 79
     - Slight right skewd
+
+
